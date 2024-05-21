@@ -28,5 +28,6 @@ nvim_lsp.sumneko_lua.setup {
     },
   },
 }
+```
 
 3. Enjoy enhanced Defold scripting with code completion and type checking!
